@@ -5,7 +5,7 @@ public class Sampler {
 		// TODO Auto-generated method stub
 		System.out.println("This is my project"); 
 		System.out.println("This is my project"); 
-		System.out.println("This is my project"); 
+
 		
 	}
 
